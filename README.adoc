@@ -1,0 +1,8 @@
+= sample-jax-rs
+
+image:https://travis-ci.org/oliviercailloux/sample-jax-rs.svg?branch=master["Build Status", link="https://travis-ci.org/oliviercailloux/sample-jax-rs"]
+
+A sample project with a simple JAX-RS resource class.
+
+You can see this very impressive application at work https://sample-jax-rs.eu-gb.mybluemix.net/v1/hello[here].
+
